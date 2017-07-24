@@ -3,6 +3,7 @@
 - python3.6
 
 # Install
+From inside repo directory
 ```
 cd ..
 virtualenv dl-experiments
